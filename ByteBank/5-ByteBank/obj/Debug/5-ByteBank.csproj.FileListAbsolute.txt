@@ -1,0 +1,7 @@
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\5-ByteBank\bin\Debug\5-ByteBank.exe.config
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\5-ByteBank\bin\Debug\5-ByteBank.exe
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\5-ByteBank\bin\Debug\5-ByteBank.pdb
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\5-ByteBank\obj\Debug\5-ByteBank.csproj.AssemblyReference.cache
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\5-ByteBank\obj\Debug\5-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\5-ByteBank\obj\Debug\5-ByteBank.exe
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\5-ByteBank\obj\Debug\5-ByteBank.pdb

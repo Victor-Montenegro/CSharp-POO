@@ -1,0 +1,7 @@
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\7-byteBank\bin\Debug\7-byteBank.exe.config
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\7-byteBank\bin\Debug\7-byteBank.exe
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\7-byteBank\bin\Debug\7-byteBank.pdb
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\7-byteBank\obj\Debug\7-byteBank.csproj.AssemblyReference.cache
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\7-byteBank\obj\Debug\7-byteBank.csproj.CoreCompileInputs.cache
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\7-byteBank\obj\Debug\7-byteBank.exe
+C:\Users\jvcmo\OneDrive\Desktop\alura\chapter 2\ByteBank\7-byteBank\obj\Debug\7-byteBank.pdb
